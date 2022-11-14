@@ -1,0 +1,17 @@
+C:\Projects\CoreApp\Core.Managers\bin\Debug\net6.0\Core.Managers.deps.json
+C:\Projects\CoreApp\Core.Managers\bin\Debug\net6.0\Core.Managers.dll
+C:\Projects\CoreApp\Core.Managers\bin\Debug\net6.0\ref\Core.Managers.dll
+C:\Projects\CoreApp\Core.Managers\bin\Debug\net6.0\Core.Managers.pdb
+C:\Projects\CoreApp\Core.Managers\obj\Debug\net6.0\Core.Managers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoreApp\Core.Managers\obj\Debug\net6.0\Core.Managers.AssemblyInfoInputs.cache
+C:\Projects\CoreApp\Core.Managers\obj\Debug\net6.0\Core.Managers.AssemblyInfo.cs
+C:\Projects\CoreApp\Core.Managers\obj\Debug\net6.0\Core.Managers.csproj.CoreCompileInputs.cache
+C:\Projects\CoreApp\Core.Managers\obj\Debug\net6.0\Core.Managers.dll
+C:\Projects\CoreApp\Core.Managers\obj\Debug\net6.0\ref\Core.Managers.dll
+C:\Projects\CoreApp\Core.Managers\obj\Debug\net6.0\Core.Managers.pdb
+C:\Projects\CoreApp\Core.Managers\bin\Debug\net6.0\Core.Data.dll
+C:\Projects\CoreApp\Core.Managers\bin\Debug\net6.0\Core.Entities.dll
+C:\Projects\CoreApp\Core.Managers\bin\Debug\net6.0\Core.Data.pdb
+C:\Projects\CoreApp\Core.Managers\bin\Debug\net6.0\Core.Entities.pdb
+C:\Projects\CoreApp\Core.Managers\obj\Debug\net6.0\Core.Managers.csproj.AssemblyReference.cache
+C:\Projects\CoreApp\Core.Managers\obj\Debug\net6.0\Core.Managers.csproj.CopyComplete

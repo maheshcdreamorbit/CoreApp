@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  core.web:
+    image: ${DOCKER_REGISTRY-}coreweb
+    build:
+      context: .
+      dockerfile: Core.Web\Dockerfile

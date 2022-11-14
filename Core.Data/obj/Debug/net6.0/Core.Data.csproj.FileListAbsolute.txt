@@ -1,0 +1,17 @@
+C:\Projects\CoreApp\Core.Data\bin\Debug\net6.0\Core.Data.deps.json
+C:\Projects\CoreApp\Core.Data\bin\Debug\net6.0\Core.Data.dll
+C:\Projects\CoreApp\Core.Data\bin\Debug\net6.0\ref\Core.Data.dll
+C:\Projects\CoreApp\Core.Data\bin\Debug\net6.0\Core.Data.pdb
+C:\Projects\CoreApp\Core.Data\bin\Debug\net6.0\Core.Entities.dll
+C:\Projects\CoreApp\Core.Data\bin\Debug\net6.0\Core.Entities.pdb
+C:\Projects\CoreApp\Core.Data\obj\Debug\net6.0\Core.Data.csproj.AssemblyReference.cache
+C:\Projects\CoreApp\Core.Data\obj\Debug\net6.0\Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CoreApp\Core.Data\obj\Debug\net6.0\Core.Data.AssemblyInfoInputs.cache
+C:\Projects\CoreApp\Core.Data\obj\Debug\net6.0\Core.Data.AssemblyInfo.cs
+C:\Projects\CoreApp\Core.Data\obj\Debug\net6.0\Core.Data.csproj.CoreCompileInputs.cache
+C:\Projects\CoreApp\Core.Data\obj\Debug\net6.0\Core.Data.csproj.CopyComplete
+C:\Projects\CoreApp\Core.Data\obj\Debug\net6.0\Core.Data.dll
+C:\Projects\CoreApp\Core.Data\obj\Debug\net6.0\ref\Core.Data.dll
+C:\Projects\CoreApp\Core.Data\obj\Debug\net6.0\Core.Data.pdb
+C:\Projects\CoreApp\Core.Data\bin\Debug\net6.0\Core.Data.runtimeconfig.json
+C:\Projects\CoreApp\Core.Data\obj\Debug\net6.0\Core.Data.genruntimeconfig.cache
